@@ -11,7 +11,7 @@ For further exploration don't forget to checkout [OpenMined](https://github.com/
 
 ### Resources
 1. [Building Safe A.I.](http://iamtrask.github.io/2017/03/17/safe-ai/) by [Andrew Trask](https://github.com/iamtrask)
-2. [How do we Democratize Access to Data?](https://youtu.be/HAC6sqq7_-U)
+2. [How do we Democratize Access to Data?](https://youtu.be/HAC6sqq7_-U) by [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 3. [Efficient Homomorphic Encryption on Integer Vectors and Its Applications](http://www.rle.mit.edu/sia/wp-content/uploads/2015/04/2014-zhou-wornell-ita.pdf)
 4. [Yet Another Somewhat Homomorphic Encryption (YASHE)](https://eprint.iacr.org/2013/075.pdf)
 5. [Somewhat Practical Fully Homomorphic Encryption (FV)](https://pdfs.semanticscholar.org/531f/8e756ea280f093138788ee896b3fa8ca085a.pdf)
