@@ -16,3 +16,4 @@ For further exploration don't forget to checkout [OpenMined](https://github.com/
 4. [Yet Another Somewhat Homomorphic Encryption (YASHE)](https://eprint.iacr.org/2013/075.pdf)
 5. [Somewhat Practical Fully Homomorphic Encryption (FV)](https://pdfs.semanticscholar.org/531f/8e756ea280f093138788ee896b3fa8ca085a.pdf)
 6. [Fully Homomorphic Encryption without Bootstrapping](http://eprint.iacr.org/2011/277.pdf)
+7. [Slides](https://slides.com/piyushmalhotra/encrypted-deep-learning/)
