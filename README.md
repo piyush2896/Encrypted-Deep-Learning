@@ -17,3 +17,4 @@ For further exploration don't forget to checkout [OpenMined](https://github.com/
 5. [Somewhat Practical Fully Homomorphic Encryption (FV)](https://pdfs.semanticscholar.org/531f/8e756ea280f093138788ee896b3fa8ca085a.pdf)
 6. [Fully Homomorphic Encryption without Bootstrapping](http://eprint.iacr.org/2011/277.pdf)
 7. [Slides](https://slides.com/piyushmalhotra/encrypted-deep-learning/)
+8. [CryptoNets](https://arxiv.org/abs/1412.6181)
